@@ -1,0 +1,29 @@
+# PyInstaller build output
+dist/
+build/
+*.spec.bak
+
+# Tesseract vendor binaries (rebuilt via prepare_vendor.py)
+vendor/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User-specific config and session data
+config.json
+detected_skins.json
+
+# Exported Excel files
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db

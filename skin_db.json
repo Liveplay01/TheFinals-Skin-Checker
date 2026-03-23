@@ -1,0 +1,142 @@
+{
+  "version": "1.1",
+  "last_updated": "2025-03-23",
+  "note": "Initial bundled database. Use [Update DB from Wiki] in the app to expand this list.",
+  "skins": [
+    {"id": "93r_default", "name": "Default", "weapon": "93R", "build": "Light", "full_name": "93R Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "93r_gilded_age", "name": "Gilded Age", "weapon": "93R", "build": "Light", "full_name": "93R Gilded Age", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 1", "obtainable": false},
+    {"id": "93r_hyperchrome", "name": "Hyperchrome", "weapon": "93R", "build": "Light", "full_name": "93R Hyperchrome", "rarity": "MYTHIC", "cost": 2500, "source": "Store", "season": "Season 2", "obtainable": false},
+
+    {"id": "arn220_default", "name": "Default", "weapon": "ARN-220", "build": "Light", "full_name": "ARN-220 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "arn220_carbon_fiber", "name": "Carbon Fiber", "weapon": "ARN-220", "build": "Light", "full_name": "ARN-220 Carbon Fiber", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+    {"id": "arn220_nightfire", "name": "Nightfire", "weapon": "ARN-220", "build": "Light", "full_name": "ARN-220 Nightfire", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 3", "obtainable": false},
+
+    {"id": "dagger_default", "name": "Default", "weapon": "Dagger", "build": "Light", "full_name": "Dagger Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "dagger_crimson_edge", "name": "Crimson Edge", "weapon": "Dagger", "build": "Light", "full_name": "Dagger Crimson Edge", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 1", "obtainable": false},
+
+    {"id": "lh1_default", "name": "Default", "weapon": "LH1", "build": "Light", "full_name": "LH1 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "lh1_urban_hunter", "name": "Urban Hunter", "weapon": "LH1", "build": "Light", "full_name": "LH1 Urban Hunter", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "lh1_phantasm", "name": "Phantasm", "weapon": "LH1", "build": "Light", "full_name": "LH1 Phantasm", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 2", "obtainable": false},
+
+    {"id": "m11_default", "name": "Default", "weapon": "M11", "build": "Light", "full_name": "M11 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "m11_phantom", "name": "Phantom", "weapon": "M11", "build": "Light", "full_name": "M11 Phantom", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 1", "obtainable": false},
+    {"id": "m11_voidstrike", "name": "Voidstrike", "weapon": "M11", "build": "Light", "full_name": "M11 Voidstrike", "rarity": "LEGENDARY", "cost": 1200, "source": "Store", "season": "Season 3", "obtainable": false},
+
+    {"id": "m26_default", "name": "Default", "weapon": "M26 Matter", "build": "Light", "full_name": "M26 Matter Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "m26_atomica", "name": "Atomica", "weapon": "M26 Matter", "build": "Light", "full_name": "M26 Matter Atomica", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+
+    {"id": "recurve_default", "name": "Default", "weapon": "Recurve Bow", "build": "Light", "full_name": "Recurve Bow Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "recurve_verdant", "name": "Verdant", "weapon": "Recurve Bow", "build": "Light", "full_name": "Recurve Bow Verdant", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 3", "obtainable": true},
+    {"id": "recurve_spectraflare", "name": "Spectraflare", "weapon": "Recurve Bow", "build": "Light", "full_name": "Recurve Bow Spectraflare", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 4", "obtainable": false},
+
+    {"id": "sh1900_default", "name": "Default", "weapon": "SH1900", "build": "Light", "full_name": "SH1900 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "sh1900_ironwood", "name": "Ironwood", "weapon": "SH1900", "build": "Light", "full_name": "SH1900 Ironwood", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+
+    {"id": "sr84_default", "name": "Default", "weapon": "SR-84", "build": "Light", "full_name": "SR-84 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "sr84_obsidian", "name": "Obsidian", "weapon": "SR-84", "build": "Light", "full_name": "SR-84 Obsidian", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 2", "obtainable": false},
+    {"id": "sr84_celestial", "name": "Celestial", "weapon": "SR-84", "build": "Light", "full_name": "SR-84 Celestial", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 3", "obtainable": false},
+
+    {"id": "sword_default", "name": "Default", "weapon": "Sword", "build": "Light", "full_name": "Sword Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "sword_dragonscale", "name": "Dragonscale", "weapon": "Sword", "build": "Light", "full_name": "Sword Dragonscale", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 2", "obtainable": false},
+    {"id": "sword_aurum", "name": "Aurum", "weapon": "Sword", "build": "Light", "full_name": "Sword Aurum", "rarity": "LEGENDARY", "cost": 1200, "source": "Battle Pass", "season": "Season 1", "obtainable": false},
+
+    {"id": "throwing_knives_default", "name": "Default", "weapon": "Throwing Knives", "build": "Light", "full_name": "Throwing Knives Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "throwing_knives_venomtip", "name": "Venomtip", "weapon": "Throwing Knives", "build": "Light", "full_name": "Throwing Knives Venomtip", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 3", "obtainable": true},
+
+    {"id": "v9s_default", "name": "Default", "weapon": "V9S", "build": "Light", "full_name": "V9S Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "v9s_neon_pulse", "name": "Neon Pulse", "weapon": "V9S", "build": "Light", "full_name": "V9S Neon Pulse", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 2", "obtainable": false},
+    {"id": "v9s_vortex", "name": "Vortex", "weapon": "V9S", "build": "Light", "full_name": "V9S Vortex", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 4", "obtainable": false},
+
+    {"id": "xp54_default", "name": "Default", "weapon": "XP-54", "build": "Light", "full_name": "XP-54 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "xp54_arctic_storm", "name": "Arctic Storm", "weapon": "XP-54", "build": "Light", "full_name": "XP-54 Arctic Storm", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "xp54_plasma_edge", "name": "Plasma Edge", "weapon": "XP-54", "build": "Light", "full_name": "XP-54 Plasma Edge", "rarity": "MYTHIC", "cost": 2500, "source": "Store", "season": "Season 3", "obtainable": false},
+
+    {"id": "akm_default", "name": "Default", "weapon": "AKM", "build": "Medium", "full_name": "AKM Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "akm_nightstalker", "name": "Nightstalker", "weapon": "AKM", "build": "Medium", "full_name": "AKM Nightstalker", "rarity": "LEGENDARY", "cost": 1200, "source": "Store", "season": "Season 1", "obtainable": false},
+    {"id": "akm_inferno", "name": "Inferno", "weapon": "AKM", "build": "Medium", "full_name": "AKM Inferno", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 2", "obtainable": false},
+    {"id": "akm_cobalt", "name": "Cobalt", "weapon": "AKM", "build": "Medium", "full_name": "AKM Cobalt", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 3", "obtainable": true},
+
+    {"id": "cb01_default", "name": "Default", "weapon": "CB-01 Repeater", "build": "Medium", "full_name": "CB-01 Repeater Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "cb01_rustwood", "name": "Rustwood", "weapon": "CB-01 Repeater", "build": "Medium", "full_name": "CB-01 Repeater Rustwood", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+
+    {"id": "cerberus_default", "name": "Default", "weapon": "Cerberus 12GA", "build": "Medium", "full_name": "Cerberus 12GA Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "cerberus_hellfire", "name": "Hellfire", "weapon": "Cerberus 12GA", "build": "Medium", "full_name": "Cerberus 12GA Hellfire", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 2", "obtainable": false},
+
+    {"id": "cl40_default", "name": "Default", "weapon": "CL-40", "build": "Medium", "full_name": "CL-40 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "cl40_oxidized", "name": "Oxidized", "weapon": "CL-40", "build": "Medium", "full_name": "CL-40 Oxidized", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "cl40_glassburst", "name": "Glassburst", "weapon": "CL-40", "build": "Medium", "full_name": "CL-40 Glassburst", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 3", "obtainable": false},
+
+    {"id": "dual_blades_default", "name": "Default", "weapon": "Dual Blades", "build": "Medium", "full_name": "Dual Blades Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "dual_blades_sakura", "name": "Sakura", "weapon": "Dual Blades", "build": "Medium", "full_name": "Dual Blades Sakura", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 4", "obtainable": true},
+
+    {"id": "famas_default", "name": "Default", "weapon": "FAMAS", "build": "Medium", "full_name": "FAMAS Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "famas_arctic", "name": "Arctic", "weapon": "FAMAS", "build": "Medium", "full_name": "FAMAS Arctic", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+    {"id": "famas_sandstorm", "name": "Sandstorm", "weapon": "FAMAS", "build": "Medium", "full_name": "FAMAS Sandstorm", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 1", "obtainable": false},
+
+    {"id": "fcar_default", "name": "Default", "weapon": "FCAR", "build": "Medium", "full_name": "FCAR Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "fcar_inferno", "name": "Inferno", "weapon": "FCAR", "build": "Medium", "full_name": "FCAR Inferno", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 2", "obtainable": false},
+    {"id": "fcar_titan", "name": "Titan", "weapon": "FCAR", "build": "Medium", "full_name": "FCAR Titan", "rarity": "LEGENDARY", "cost": 1200, "source": "Store", "season": "Season 3", "obtainable": false},
+    {"id": "fcar_venom", "name": "Venom", "weapon": "FCAR", "build": "Medium", "full_name": "FCAR Venom", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 4", "obtainable": true},
+
+    {"id": "model1887_default", "name": "Default", "weapon": "Model 1887", "build": "Medium", "full_name": "Model 1887 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "model1887_ironclad", "name": "Ironclad", "weapon": "Model 1887", "build": "Medium", "full_name": "Model 1887 Ironclad", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "model1887_desolation", "name": "Desolation", "weapon": "Model 1887", "build": "Medium", "full_name": "Model 1887 Desolation", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 2", "obtainable": false},
+
+    {"id": "p90_default", "name": "Default", "weapon": "P90", "build": "Medium", "full_name": "P90 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "p90_phantom_blue", "name": "Phantom Blue", "weapon": "P90", "build": "Medium", "full_name": "P90 Phantom Blue", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 3", "obtainable": false},
+
+    {"id": "pike556_default", "name": "Default", "weapon": "Pike-556", "build": "Medium", "full_name": "Pike-556 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "pike556_emerald", "name": "Emerald", "weapon": "Pike-556", "build": "Medium", "full_name": "Pike-556 Emerald", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+    {"id": "pike556_stormchaser", "name": "Stormchaser", "weapon": "Pike-556", "build": "Medium", "full_name": "Pike-556 Stormchaser", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 4", "obtainable": false},
+
+    {"id": "r357_default", "name": "Default", "weapon": "R.357", "build": "Medium", "full_name": "R.357 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "r357_old_faithful", "name": "Old Faithful", "weapon": "R.357", "build": "Medium", "full_name": "R.357 Old Faithful", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "r357_engraved", "name": "Engraved", "weapon": "R.357", "build": "Medium", "full_name": "R.357 Engraved", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 3", "obtainable": false},
+
+    {"id": "riot_shield_default", "name": "Default", "weapon": "Riot Shield", "build": "Medium", "full_name": "Riot Shield Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "riot_shield_fortified", "name": "Fortified", "weapon": "Riot Shield", "build": "Medium", "full_name": "Riot Shield Fortified", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+
+    {"id": "akimbo_default", "name": "Default", "weapon": ".50 Akimbo", "build": "Heavy", "full_name": ".50 Akimbo Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "akimbo_dual_dusk", "name": "Dual Dusk", "weapon": ".50 Akimbo", "build": "Heavy", "full_name": ".50 Akimbo Dual Dusk", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 2", "obtainable": false},
+
+    {"id": "bfr_default", "name": "Default", "weapon": "BFR Titan", "build": "Heavy", "full_name": "BFR Titan Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "bfr_warmonger", "name": "Warmonger", "weapon": "BFR Titan", "build": "Heavy", "full_name": "BFR Titan Warmonger", "rarity": "LEGENDARY", "cost": 1200, "source": "Battle Pass", "season": "Season 1", "obtainable": false},
+
+    {"id": "flamethrower_default", "name": "Default", "weapon": "Flamethrower", "build": "Heavy", "full_name": "Flamethrower Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "flamethrower_infernal", "name": "Infernal", "weapon": "Flamethrower", "build": "Heavy", "full_name": "Flamethrower Infernal", "rarity": "EPIC", "cost": 500, "source": "Event", "season": "Season 2", "obtainable": false},
+    {"id": "flamethrower_scorched", "name": "Scorched", "weapon": "Flamethrower", "build": "Heavy", "full_name": "Flamethrower Scorched", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 3", "obtainable": true},
+
+    {"id": "ks23_default", "name": "Default", "weapon": "KS-23", "build": "Heavy", "full_name": "KS-23 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "ks23_brushed_steel", "name": "Brushed Steel", "weapon": "KS-23", "build": "Heavy", "full_name": "KS-23 Brushed Steel", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 1", "obtainable": true},
+    {"id": "ks23_crimson", "name": "Crimson", "weapon": "KS-23", "build": "Heavy", "full_name": "KS-23 Crimson", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 3", "obtainable": false},
+
+    {"id": "lewis_default", "name": "Default", "weapon": "Lewis Gun", "build": "Heavy", "full_name": "Lewis Gun Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "lewis_heritage", "name": "Heritage", "weapon": "Lewis Gun", "build": "Heavy", "full_name": "Lewis Gun Heritage", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+    {"id": "lewis_blackwatch", "name": "Blackwatch", "weapon": "Lewis Gun", "build": "Heavy", "full_name": "Lewis Gun Blackwatch", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 1", "obtainable": false},
+
+    {"id": "minigun_default", "name": "Default", "weapon": "M134 Minigun", "build": "Heavy", "full_name": "M134 Minigun Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "minigun_cyclone", "name": "Cyclone", "weapon": "M134 Minigun", "build": "Heavy", "full_name": "M134 Minigun Cyclone", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 2", "obtainable": false},
+
+    {"id": "m60_default", "name": "Default", "weapon": "M60", "build": "Heavy", "full_name": "M60 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "m60_jungle_warfare", "name": "Jungle Warfare", "weapon": "M60", "build": "Heavy", "full_name": "M60 Jungle Warfare", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 3", "obtainable": true},
+    {"id": "m60_hellstorm", "name": "Hellstorm", "weapon": "M60", "build": "Heavy", "full_name": "M60 Hellstorm", "rarity": "LEGENDARY", "cost": 1200, "source": "Store", "season": "Season 1", "obtainable": false},
+
+    {"id": "mgl32_default", "name": "Default", "weapon": "MGL32", "build": "Heavy", "full_name": "MGL32 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "mgl32_warhead", "name": "Warhead", "weapon": "MGL32", "build": "Heavy", "full_name": "MGL32 Warhead", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 4", "obtainable": false},
+
+    {"id": "sa1216_default", "name": "Default", "weapon": "SA1216", "build": "Heavy", "full_name": "SA1216 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "sa1216_titanfall", "name": "Titanfall", "weapon": "SA1216", "build": "Heavy", "full_name": "SA1216 Titanfall", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+    {"id": "sa1216_oblivion", "name": "Oblivion", "weapon": "SA1216", "build": "Heavy", "full_name": "SA1216 Oblivion", "rarity": "MYTHIC", "cost": 2500, "source": "Store", "season": "Season 2", "obtainable": false},
+
+    {"id": "shak50_default", "name": "Default", "weapon": "ShAK-50", "build": "Heavy", "full_name": "ShAK-50 Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "shak50_permafrost", "name": "Permafrost", "weapon": "ShAK-50", "build": "Heavy", "full_name": "ShAK-50 Permafrost", "rarity": "EPIC", "cost": 500, "source": "Store", "season": "Season 3", "obtainable": false},
+
+    {"id": "sledgehammer_default", "name": "Default", "weapon": "Sledgehammer", "build": "Heavy", "full_name": "Sledgehammer Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "sledgehammer_devastator", "name": "Devastator", "weapon": "Sledgehammer", "build": "Heavy", "full_name": "Sledgehammer Devastator", "rarity": "LEGENDARY", "cost": 1200, "source": "Event", "season": "Season 1", "obtainable": false},
+    {"id": "sledgehammer_rusted", "name": "Rusted", "weapon": "Sledgehammer", "build": "Heavy", "full_name": "Sledgehammer Rusted", "rarity": "RARE", "cost": 300, "source": "Store", "season": "Season 2", "obtainable": true},
+
+    {"id": "spear_default", "name": "Default", "weapon": "Spear", "build": "Heavy", "full_name": "Spear Default", "rarity": "COMMON", "cost": 0, "source": "Default", "season": null, "obtainable": true},
+    {"id": "spear_vanguard", "name": "Vanguard", "weapon": "Spear", "build": "Heavy", "full_name": "Spear Vanguard", "rarity": "EPIC", "cost": 500, "source": "Battle Pass", "season": "Season 3", "obtainable": false},
+    {"id": "spear_shadowlance", "name": "Shadowlance", "weapon": "Spear", "build": "Heavy", "full_name": "Spear Shadowlance", "rarity": "MYTHIC", "cost": 2500, "source": "Store", "season": "Season 4", "obtainable": false}
+  ]
+}
