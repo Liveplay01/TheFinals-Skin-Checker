@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-06",
-  "total": 1350,
+  "last_updated": "2026-04-13",
+  "total": 1354,
   "skins": [
     {
       "id": "m11_ospuze_poppin'",
@@ -6724,6 +6724,27 @@
       "score": 1020000
     },
     {
+      "id": "93r_heat_stroke",
+      "name": "HEAT STROKE",
+      "weapon": "93R",
+      "build": "Light",
+      "full_name": "93R HEAT STROKE",
+      "rarity": "LEGENDARY",
+      "cost": 800,
+      "source": "Store",
+      "ranked_tier": null,
+      "will_not_return": false,
+      "season": null,
+      "bp_tier": null,
+      "obtainable": true,
+      "image_url": "https://www.thefinals.wiki/w/images/thumb/4/43/HEAT_STROKE-93R.png/115px-HEAT_STROKE-93R.png.webp",
+      "cosmetic_url": "https://www.thefinals.wiki/wiki/Cosmetic?C%5BID%5D=19987&_run",
+      "tier": "D",
+      "tier_label": "Basic",
+      "estimated_value": 800,
+      "score": 1020000
+    },
+    {
       "id": "93r_pressure_perfected",
       "name": "PRESSURE PERFECTED",
       "weapon": "93R",
@@ -10333,6 +10354,27 @@
       "tier": "D",
       "tier_label": "Basic",
       "estimated_value": 800,
+      "score": 1020000
+    },
+    {
+      "id": "sh1900_charmalure",
+      "name": "CHARMALURE",
+      "weapon": "SH1900",
+      "build": "Light",
+      "full_name": "SH1900 CHARMALURE",
+      "rarity": "LEGENDARY",
+      "cost": 600,
+      "source": "Store",
+      "ranked_tier": null,
+      "will_not_return": false,
+      "season": null,
+      "bp_tier": null,
+      "obtainable": true,
+      "image_url": "https://www.thefinals.wiki/w/images/thumb/e/eb/CHARMALURE_SH1900.png/115px-CHARMALURE_SH1900.png.webp",
+      "cosmetic_url": "https://www.thefinals.wiki/wiki/Cosmetic?C%5BID%5D=19891&_run",
+      "tier": "D",
+      "tier_label": "Basic",
+      "estimated_value": 600,
       "score": 1020000
     },
     {
@@ -18022,6 +18064,27 @@
       "score": 1020000
     },
     {
+      "id": "fcar_heat_stroke",
+      "name": "HEAT STROKE",
+      "weapon": "FCAR",
+      "build": "Medium",
+      "full_name": "FCAR HEAT STROKE",
+      "rarity": "LEGENDARY",
+      "cost": 800,
+      "source": "Store",
+      "ranked_tier": null,
+      "will_not_return": false,
+      "season": null,
+      "bp_tier": null,
+      "obtainable": true,
+      "image_url": "https://www.thefinals.wiki/w/images/thumb/2/2a/HEAT_STROKE-FCAR.png/115px-HEAT_STROKE-FCAR.png.webp",
+      "cosmetic_url": "https://www.thefinals.wiki/wiki/Cosmetic?C%5BID%5D=19988&_run",
+      "tier": "D",
+      "tier_label": "Basic",
+      "estimated_value": 800,
+      "score": 1020000
+    },
+    {
       "id": "fcar_ledownshift",
       "name": "L.E.DOWNSHIFT",
       "weapon": "FCAR",
@@ -22303,6 +22366,27 @@
       "tier": "D",
       "tier_label": "Basic",
       "estimated_value": 800,
+      "score": 1020000
+    },
+    {
+      "id": "flamethrower_charmalure",
+      "name": "CHARMALURE",
+      "weapon": "Flamethrower",
+      "build": "Heavy",
+      "full_name": "Flamethrower CHARMALURE",
+      "rarity": "LEGENDARY",
+      "cost": 600,
+      "source": "Store",
+      "ranked_tier": null,
+      "will_not_return": false,
+      "season": null,
+      "bp_tier": null,
+      "obtainable": true,
+      "image_url": "https://www.thefinals.wiki/w/images/thumb/7/79/CHARMALURE_Flamethrower.png/115px-CHARMALURE_Flamethrower.png.webp",
+      "cosmetic_url": "https://www.thefinals.wiki/wiki/Cosmetic?C%5BID%5D=19893&_run",
+      "tier": "D",
+      "tier_label": "Basic",
+      "estimated_value": 600,
       "score": 1020000
     },
     {
